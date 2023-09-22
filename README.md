@@ -7,3 +7,4 @@
 
 <img width="45%" height="203px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanDev132&layout=compact&hide_border=false&border_color=21B800&&title_color=21B800&text_color=DDDDDD&bg_color=000000" />
 
+<img src="zoro-one-piece-zoro-purgatory-onigiri.gif">
