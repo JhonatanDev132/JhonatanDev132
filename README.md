@@ -6,4 +6,4 @@
 
 
 <img width="45%" height="203px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanDev132&layout=compact&hide_border=false&border_color=21B800&&title_color=21B800&text_color=DDDDDD&bg_color=000000" />
-![zoro-one-piece-zoro](https://github.com/JhonatanDev132/JhonatanDev132/assets/130502584/90940c6e-9549-4493-b8d4-3092f76acb0c)
+
