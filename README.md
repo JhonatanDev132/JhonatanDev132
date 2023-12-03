@@ -10,6 +10,4 @@ Faço curso de Técnico em Informática para internet no Senac  :)
 <img width="40%" height="203px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanDev132&layout=compact&hide_border=false&border_color=A6A6A6&&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000" />
 
 <img  src="yuta-okkotsu-rika-orimoto.gif">
-
-![Snake animation](https://github.com/JhonatanDev132/JhonatanDev132/blob/output/github-contribution-grid-snake.svg)
 </div>
