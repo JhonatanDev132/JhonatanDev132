@@ -11,3 +11,5 @@ Faço curso de Técnico em Informática para internet no Senac  :)
 
 <img  src="yuta-okkotsu-rika-orimoto.gif">
 </div>
+
+![snake gif](https://github.com/JhonatanDev132/JhonatanDev132/blob/output/github-contribution-grid-snake.svg)
