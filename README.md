@@ -10,5 +10,11 @@ Faço curso Técnico em Informática para internet no Senac  :)
 <img width="40%" height="203px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanDev132&layout=compact&hide_border=false&border_color=A6A6A6&&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000" />
 
 <img  src="yuta-okkotsu-rika-orimoto.gif">
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,html,nextjs,js,jquery,nodejs,php,github,firebase,figma,react,tailwind" />
+  </a>
+</p>
 </div>
 
