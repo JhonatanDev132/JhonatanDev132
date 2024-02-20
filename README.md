@@ -9,7 +9,7 @@ Faço curso Técnico em Informática para internet no Senac  :)
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/JhonatanDev132?cardType=octocat&theme=github-dark&preferLogin=false&Background=0D0D0D&Text=FFFFFF&Title=FFFFFF&Border=A6A6A6&Ring=F3FFDE)](https://git.io/awesome-stats-card)
 <img width="40%" height="203px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanDev132&layout=compact&hide_border=false&border_color=A6A6A6&&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000" />
 
-<img  src="sukuna-shibuya-bad-ass-gif-v0-yjuslt2hsetb1.gif" width="600" height="auto">
+<img  src="eb9770e8f924c997bd45e16690e6567fd2f24f57r1-540-258_hq.gif" width="600" height="auto">
 
 <hr />
 
