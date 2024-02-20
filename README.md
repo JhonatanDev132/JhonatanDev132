@@ -1,7 +1,7 @@
   <div align="center">
 Meu nome é Jhonatan Vinicius.🙂 <br>
 Tenho 18 anos.👍🏼<br>
-Faço curso de Técnico em Informática para internet no Senac  :)
+Faço curso Técnico em Informática para internet no Senac  :)
   </div>
   <br>
 <div align='center'> 
