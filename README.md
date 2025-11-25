@@ -7,13 +7,17 @@ Estou cursando ensino superior na Faculdade Impacta no curso de Análise e desen
 <div align='center'> 
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/JhonatanDev132?cardType=octocat&theme=github-dark&preferLogin=false&Background=0D0D0D&Text=FFFFFF&Title=FFFFFF&Border=A6A6A6&Ring=F3FFDE)](https://git.io/awesome-stats-card)
-<img width="40%" height="203px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanDev132&layout=compact&hide_border=false&border_color=A6A6A6&&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000" />
 
 <img  src="zoro.jpg" width="600" height="auto">
 
 <hr />
 
 <p align="center">
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,html,nextjs,js,jquery,nodejs,php,github,firebase,figma,react,tailwind" />
+  </a>
+  
 <hr />
 
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=JhonatanDev132&point=ffffff&area_color=C77DFF&color=ffffff&custom_title=Jhonatan%20Vinicius%20Contribution%20Graph&line=ffffff&bg_color=0d1117&hide_border=true&area=true)" />
