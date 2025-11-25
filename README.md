@@ -14,10 +14,6 @@ Estou cursando ensino superior na Faculdade Impacta no curso de Análise e desen
 <hr />
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,nextjs,js,jquery,nodejs,php,github,firebase,figma,react,tailwind" />
-  </a>
-
 <hr />
 
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=JhonatanDev132&point=ffffff&area_color=C77DFF&color=ffffff&custom_title=Jhonatan%20Vinicius%20Contribution%20Graph&line=ffffff&bg_color=0d1117&hide_border=true&area=true)" />
