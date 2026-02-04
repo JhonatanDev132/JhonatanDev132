@@ -15,7 +15,7 @@ Estou cursando ensino superior na Faculdade Impacta no curso de Análise e desen
 <p align="center">
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,nextjs,js,jquery,nodejs,php,github,firebase,figma,react,tailwind" />
+    <img src="https://skillicons.dev/icons?i=css,html,nextjs,js,jquery,nodejs,php,github,firebase,mongodb,python,figma,react,tailwind" />
   </a>
   
 <hr />
